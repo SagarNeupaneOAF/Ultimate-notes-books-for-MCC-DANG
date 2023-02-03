@@ -6,3 +6,6 @@ Contribute
 
  To add your notes on this repo, fork the repo and upload your files using the github upload functionality and then make a pull request.
  Please help us in adding new resources.
+
+Also join our discord server:
+https://discord.gg/mMeRtcHnPQ
